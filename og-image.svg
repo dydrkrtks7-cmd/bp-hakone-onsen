@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Geometric pattern -->
+  <circle cx="490" cy="621" r="27" fill="#1a1a2e" opacity="0.06"/>
+    <circle cx="307" cy="-14" r="96" fill="#1a1a2e" opacity="0.13"/>
+    <circle cx="854" cy="665" r="94" fill="#1a1a2e" opacity="0.17"/>
+    <circle cx="247" cy="466" r="45" fill="#1a1a2e" opacity="0.11"/>
+    <circle cx="269" cy="375" r="28" fill="#1a1a2e" opacity="0.18"/>
+    <circle cx="223" cy="711" r="54" fill="#1a1a2e" opacity="0.12"/>
+    <rect x="367" y="-30" width="29" height="67" rx="8" fill="#0a0a0a" opacity="0.11" transform="rotate(30, 780, 721)"/>
+    <rect x="799" y="258" width="54" height="36" rx="8" fill="#0a0a0a" opacity="0.08" transform="rotate(8, 518, 233)"/>
+    <rect x="623" y="493" width="85" height="44" rx="8" fill="#0a0a0a" opacity="0.07" transform="rotate(20, 1114, -49)"/>
+    <rect x="995" y="182" width="54" height="60" rx="8" fill="#0a0a0a" opacity="0.04" transform="rotate(26, -53, 545)"/>
+    <rect x="117" y="581" width="66" height="69" rx="8" fill="#0a0a0a" opacity="0.11" transform="rotate(30, 361, 318)"/>
+    <rect x="697" y="289" width="72" height="48" rx="8" fill="#0a0a0a" opacity="0.12" transform="rotate(29, -97, 515)"/>
+    <rect x="805" y="261" width="20" height="45" rx="8" fill="#0a0a0a" opacity="0.13" transform="rotate(16, 695, 240)"/>
+    <rect x="759" y="318" width="33" height="66" rx="8" fill="#0a0a0a" opacity="0.12" transform="rotate(5, 1003, 336)"/>
+    <polygon points="66,19 115,117 17,117" fill="#1a1a2e" opacity="0.06"/>
+    <polygon points="893,67 982,245 804,245" fill="#1a1a2e" opacity="0.05"/>
+    <polygon points="220,188 307,362 133,362" fill="#1a1a2e" opacity="0.10"/>
+    <polygon points="1139,99 1189,199 1089,199" fill="#1a1a2e" opacity="0.08"/>
+
+  <!-- Wave at bottom -->
+  <path d="M0,540 C360,585 840,495 1200,540 L1200,630 L0,630Z" fill="#1a1a2e" opacity="0.3"/>
+
+  <!-- 중앙 텍스트 카드 -->
+  <rect x="80" y="195" width="1040" height="260" rx="20" fill="rgba(0,0,0,0.35)" filter="url(#blur-bg)"/>
+  <filter id="blur-bg"><feGaussianBlur stdDeviation="8"/></filter>
+
+  <text x="600" y="270" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="44" font-weight="700" fill="#ffffff" letter-spacing="2">
+    Hakone onsen 안내
+  </text>
+  <text x="600" y="330" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="22" font-weight="400" fill="rgba(255,255,255,0.85)">
+    Hakone — 정보
+  </text>
+
+  <!-- Accent line -->
+  <line x1="450" y1="355" x2="750" y2="355" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- 하단 CTA -->
+  <rect x="440" y="385" width="320" height="40" rx="20" fill="#7c3aed" opacity="0.9"/>
+  <text x="600" y="411" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="16" font-weight="600" fill="#ffffff">
+    ▼ 자세히 보기
+  </text>
+
+  <!-- 상단 브랜드 -->
+  <text x="60" y="55" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="18" font-weight="600" fill="rgba(255,255,255,0.6)">
+    Hakone Hakone onsen 안내 — 정보
+  </text>
+</svg>
