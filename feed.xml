@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[Hakone Hakone onsen 안내]]></title>
-  <link>https://</link>
-  <description><![CDATA[Hakone 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 26 May 2026 08:47:48 GMT</pubDate>
-  <lastBuildDate>Tue, 26 May 2026 08:47:48 GMT</lastBuildDate>
-  <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[정보]]></title>
+  <link>https://dydrkrtks7-cmd.github.io/bp-hakone-onsen</link>
+  <description><![CDATA[정보 - Hakone onsen 안내 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Tue, 09 Jun 2026 23:40:43 GMT</pubDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:40:43 GMT</lastBuildDate>
+  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-hakone-onsen/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[Hakone Hakone onsen 안내 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https:///</link>
-      <guid isPermaLink="true">https:///</guid>
-      <description><![CDATA[Hakone 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Tue, 26 May 2026 08:47:48 GMT</pubDate>
+      <title><![CDATA[Hakone onsen 안내 경험자에게 물어본 현실적인 판단 기준]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-hakone-onsen/posts/interview-001-ssbvz0.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-hakone-onsen/posts/interview-001-ssbvz0.html</guid>
+      <description><![CDATA[아, 진짜... 이 글은 룸 단위 서비스업에서 가격대별 원가 구조와 마진율의 실제 분포를 깊게 다루고 있어. 독자가 실제로 판단하거나 행동해야 할 맥락을 작성해야 해. 특히 "단골 손님" 시점으로 시작해, 사장 몰래 메뉴별 원가 계산해서 블로그에 올리는 갈등을 중심으로]]></description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
