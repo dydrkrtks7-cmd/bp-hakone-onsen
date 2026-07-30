@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yeongdeungpo-massage-note.nurse-kyujin.online/sitemap.xml
-Sitemap: https://yeongdeungpo-massage-note.nurse-kyujin.online/sitemap-pages.xml
+Sitemap: https://hakone-onsen-guide.pbn-builder.xyz/sitemap.xml
+Sitemap: https://hakone-onsen-guide.pbn-builder.xyz/sitemap-pages.xml
